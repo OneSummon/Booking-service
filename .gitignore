@@ -1,0 +1,6 @@
+.venv/
+.env
+.claude/
+__pycache__/
+.pytest_cache/
+sids to fill with data/
